@@ -1,5 +1,5 @@
 # Guideline-QA-Assessment
-Tes masuk turnkey.id
+
 HOW TO RUN AUTOMATION ROBOT FRAMEWORK
 
 English
